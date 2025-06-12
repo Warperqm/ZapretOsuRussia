@@ -48,9 +48,3 @@ s.ppy.sh
 i.ppy.sh
 bm6.ppy.sh
 bm10.ppy.sh
-akatsuki.gg
-bancho.py
-https://osu.ppy.sh/beatmapsets/2353363/download
-https://m7b28g0c42.execute-api.eu-west-3.amazonaws.com/login.html
-c.akatsuki.gg
-zxq.co
