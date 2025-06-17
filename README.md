@@ -8,7 +8,7 @@
 
 # Сыллка для скачивания
 
-- [ZapretOsuRussia репозиторий](https://github.com/Warperqm/ZapretOsuRussia/archive/refs/heads/master.zip)
+- [ZapretOsuRussia репозитория](https://github.com/Warperqm/ZapretOsuRussia/archive/refs/heads/master.zip)
 
 
 # Для чего нужна в Osu
